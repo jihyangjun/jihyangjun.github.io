@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jihyang Jun"
-title_separator          : "| UX Research"
-subtitle                 : "Hello, nice to meet you" # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "UX Researcher with a Ph.D. in Cognitive Psychology" # site tagline that appears below site title in masthead
 name                     : "Jihyang Jun"
-description              : "Jihyang Jun's website"
+description              : "Jihyang Jun, UX Researcher dedicated to enhancing user experiences through research."
 url                      : "https://jihyangjun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jihyang Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a UX researcher."
+  location         : "Pittsburgh, PA"
+  email            : "jihy.jun@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
