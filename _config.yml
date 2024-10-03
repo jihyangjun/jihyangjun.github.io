@@ -134,8 +134,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://jihyangjun.github.io/"
 
 # Reading Files
