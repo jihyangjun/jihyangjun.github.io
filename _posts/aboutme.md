@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "about me"
+title:  "Welcome to Jekyll!"
 ---
 
 # test1. hello world.
