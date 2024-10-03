@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jihyang Jun"
 title_separator          : "|"
-subtitle                 : "UX Researcher with a Ph.D. in Cognitive Psychology" # site tagline that appears below site title in masthead
+subtitle                 : "UX Researcher" # site tagline that appears below site title in masthead
 name                     : "Jihyang Jun"
 description              : "Jihyang Jun, UX Researcher dedicated to enhancing user experiences through research."
 url                      : "https://jihyangjun.github.io"
