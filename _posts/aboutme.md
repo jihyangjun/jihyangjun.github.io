@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About me"
+title:  "about me"
 ---
 
 # test1. hello world.
